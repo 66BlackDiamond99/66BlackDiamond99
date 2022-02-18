@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @66BlackDiamond99
 - 👀 I’m interested in GameDevelopment
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on Game making
 
 <!---
